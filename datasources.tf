@@ -1,7 +1,7 @@
 # Use this data source to get a list of AMI IDs matching the specified criteria.
 data "aws_ami" "server_ami" {
   most_recent = true
-  owners      = ["099720109477"]
+  owners      = ["XXXXXXXXXXXX"]
 
   filter {
     name   = "name"
