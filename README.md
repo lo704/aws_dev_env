@@ -9,10 +9,11 @@ This project uses Terraform IaC to provision a custom VPC environment in AWS the
 
 <h2>Tools Languages and Resouces Used</h2>
 
-- <b>Terraform (HCL)</b> 
-- <b>VS Code</b>
-- <b>Bash Shell Script</b>
+- <b>AWS VPC</b> 
+- <b>VS Code (IDE)</b>
+- <b>Terraform (HCL)</b>
 - <b>Ubuntu 18.04</b>
+- <b>Bash Shell Script</b>
 - <b>SSH Config Script</b>
 - <b>UserData Script</b>
 
