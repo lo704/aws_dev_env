@@ -1,4 +1,4 @@
-<h1>Terraform - Setting up a Dev Environment in AWS</h1>
+<h1>Dev Environment in AWS Cloud with Terraform</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=iRaai1IBlB0&t=142s)
 
